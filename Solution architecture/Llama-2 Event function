@@ -1,0 +1,8 @@
+{
+  "httpMethod": "Get",
+  "path": "/example",
+  "queryStringParameters": {
+    "query": "how to build a startup?",
+    "param2": "value2"
+  }
+}
